@@ -12,14 +12,14 @@
     "workflow"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/n8ntools/n8n-nodes-n8ntools",
+  "homepage": "https://github.com/paulocmbraga/n8n-nodes-n8ntools",
   "author": {
     "name": "N8N Tools BR",
     "email": "contato@n8ntools.com.br"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/n8ntools/n8n-nodes-n8ntools.git"
+    "url": "git+https://github.com/paulocmbraga/n8n-nodes-n8ntools.git"
   },
   "main": "index.js",
   "scripts": {
