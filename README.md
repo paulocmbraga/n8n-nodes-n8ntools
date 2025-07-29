@@ -1,7 +1,7 @@
 # N8N Tools - Custom N8N Nodes
 
 [![npm version](https://badge.fury.io/js/n8n-nodes-n8ntools.svg)](https://badge.fury.io/js/n8n-nodes-n8ntools)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC-SA](https://img.shields.io/badge/License-CC BY-NC-SA-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Custom N8N nodes for integrating with the N8N Tools platform, providing powerful automation capabilities for PDF generation, web scraping, and document processing.
 
