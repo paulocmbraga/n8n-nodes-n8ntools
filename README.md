@@ -1,14 +1,14 @@
-# N8N Tools BR - Custom N8N Nodes
+# N8N Tools - Custom N8N Nodes
 
 [![npm version](https://badge.fury.io/js/n8n-nodes-n8ntools.svg)](https://badge.fury.io/js/n8n-nodes-n8ntools)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Custom N8N nodes for integrating with the N8N Tools BR platform, providing powerful automation capabilities for PDF generation, web scraping, and document processing.
+Custom N8N nodes for integrating with the N8N Tools platform, providing powerful automation capabilities for PDF generation, web scraping, and document processing.
 
 ## Features
 
 ### 🔐 N8N Tools API Credentials
-- Secure API authentication with your N8N Tools BR account
+- Secure API authentication with your N8N Tools account
 - Automatic token management and validation
 
 ### 📄 PDF Generator Node
@@ -68,7 +68,7 @@ USER node
 
 ### 1. Get Your API Key
 
-1. Sign up for a free account at [N8N Tools BR](https://n8ntools.com.br)
+1. Sign up for a free account at [N8N Tools](https://n8ntools.com.br)
 2. Go to your dashboard and navigate to **API Keys**
 3. Generate a new API key for N8N integration
 
@@ -76,7 +76,7 @@ USER node
 
 1. In N8N, go to **Credentials**
 2. Click **Create New Credential**
-3. Search for "N8N Tools BR API"
+3. Search for "N8N Tools API"
 4. Enter your:
    - **API URL**: `https://api.n8ntools.com.br` (or your self-hosted instance)
    - **API Key**: Your generated API key
@@ -151,7 +151,7 @@ All nodes support N8N's built-in error handling:
 
 ## Rate Limits
 
-API rate limits depend on your N8N Tools BR subscription plan:
+API rate limits depend on your N8N Tools subscription plan:
 
 - **Free Plan**: 100 requests/month
 - **Pro Plan**: 10,000 requests/month
@@ -192,7 +192,7 @@ npm test
 
 ## License
 
-MIT © N8N Tools BR
+MIT © N8N Tools
 
 ## Changelog
 
@@ -200,4 +200,4 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ---
 
-**Made with ❤️ by the N8N Tools BR team**
+**Made with ❤️ by the N8N Tools team**
